@@ -3,10 +3,10 @@ title: Leekai Blog
 SEOTitle: 李凯的博客 | Leekai Blog
 header-img: img/home-bg.jpg
 email: xtf115@163.com
-description: "关于前端与设计、黑客与画家 | 李凯，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @leekai李凯 的个人博客，与你一起发现更大的世界。"
-keyword: "李凯, Leekai黄玄, leekai‘, 鬼栈, xtf115, @xtf115, 李凯的博客, Leekai Blog, 博客, 个人网站, 互联网, Android, Web, JavaScript, 前端, 设计"
+description: "关于前端与设计、黑客与画家 | 李凯，Web & Mobile Lover，Software Engineer | 这里是 @leekai李凯 的个人博客，与你一起发现更大的世界。"
+keyword: "李凯, Leekai李凯, leekai‘, 凯爷, xtf115, @xtf115, 李凯的博客, Leekai Blog, 博客, 个人网站, 互联网, Android, Java, JavaScript, 前端, PHP"
 url: "http://leekai.cn"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""                          # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
@@ -48,7 +48,7 @@ input: GFM                            # use Github Flavored Markdown !important
 
 
 # Disqus settings
-disqus_username: xtf115
+disqus_username: false
 
 # Netease setttings
 netease_comment: false
@@ -87,34 +87,19 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "世纪佳缘",
+        href: "http://www.jiayuan.com"
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "佳缘一对一",
+        href: "http://vip.jiayuan.com"
     },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: "CRM呼叫助手",
+        href: "http://v.jiayuan.com/caller/"
     },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
+        title: "CRM店内助手",
+        href: "http://v.jiayuan.com/shophelper/"
     },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "GitHub",
+        href: "https://github.com/"
     }
 ]

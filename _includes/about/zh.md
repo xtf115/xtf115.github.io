@@ -1,11 +1,11 @@
-> 写写代码，做做设计，  
-> 离开世界之前，一切都是过程。
+> 爱Coding，爱生活，爱这个无比美好的世界！ 
+> 追逐热爱的一切！
 
-Hey，我是黄玄，病毒种，进化程度不明，多出没于[博客](https://huangxuan.me)、[微博](weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](http://github.com/huxpro)、[Medium](https://medium.com/@Huxpro) 等地带，绝招尚在开发中。
+Hey，我是李凯，病毒种，进化程度不明，多出没于[博客](http://leekai.cn)、[微博](weibo.com/ileekai)、[知乎](https://www.zhihu.com/people/ileekai/pins/posts)、[Github](http://github.com/xtf115) 等地带，绝招尚在开发中。
 
-职业是软件工程师，[Web 工会](https://medium.com/ben-and-dion/team-web-3315aa447fb2#.359a9c6cl)活跃成员。曾被招募为淘宝网 · [阿里旅行](http://alitrip.com)前端工程师、微影时代 · [微票儿](http://www.wepiao.com/?r=movie)前端基础工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)。
+职业曾经是PHP开发工程师，现在是Android开发工程师，[世纪佳缘](http://www.jiayuan.com)开发成员。负责的项目有 世纪佳缘· [佳缘一对一](http://vip.jiayuan.com)项目经理，Android研发工程师、世纪佳缘 · [幸福经纪人](http://vip.jiayuan.com)项目经理，Android研发工程师、[CRM呼叫助手](http://v.jiayuan.com/caller/)项目经理，Android研发工程师、世纪佳缘 · [CRM店内助手](http://v.jiayuan.com/shophelper/)项目经理，Android研发工程师、[友寻](http://www.iyouxun.com/)项目经理，Android研发工程师。
 
-一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/huxpro)、[演说.io](http://https://zhuanlan.zhihu.com/p/21280918)。 
+一些作品和开源软件项目，👉 戳 [Github](http://github.com/xtf115)、[Kaidroid](https://github.com/xtf115/KaiDroid)。 
 
 
 ##### Talks

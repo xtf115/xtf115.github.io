@@ -101,5 +101,8 @@ friends: [
     },{
         title: "GitHub",
         href: "https://github.com/"
+    },{
+        title: "leekai's GitHub",
+        href: "https://github.com/xtf115"
     }
 ]

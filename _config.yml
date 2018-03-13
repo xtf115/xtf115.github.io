@@ -107,5 +107,8 @@ friends: [
     },{
         title: "markdown",
         href: "https://www.appinn.com/markdown/"
+    },{
+        title: "jekyllcn",
+        href: "http://jekyllcn.com/"
     }
 ]

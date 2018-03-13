@@ -1,8 +1,8 @@
-#Hux Blog
+#Leekai Blog
 
-###[View Live Hux Blog &rarr;](https://huangxuan.me)
+###[View Live Leekai Blog &rarr;](https://leekai.cn)
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](http://leekai.cn/img/blog-desktop.jpg)
 
 
 
@@ -14,7 +14,7 @@ Want to clone a boilerplate instead of my buzz blog? Here comes this!
 $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
 ```
 
-**[View Boilerplate Here &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
+**[View Boilerplate Here &rarr;](http://leekai.cn/huxblog-boilerplate/)**
 
 
 ## Porting 
@@ -24,7 +24,7 @@ $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
 
 ## Translation
 
- - ![cn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) **Chinese (Simplified)**: 感谢 [@BrucZhaoR](https://github.com/BruceZhaoR) 的 [中文翻译 &rarr;](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)
+ - ![cn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) **Chinese (Simplified)**: 感谢 [@BrucZhaoR](https://github.com/BruceZhaoR) 的 [中文翻译 &rarr;](https://github.com/xtf115/leekai.github.io/blob/master/README.zh.md)
 
 ## Features
 
@@ -32,7 +32,7 @@ $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
 
 - Annoyed to delete my blog post after clone or pull? **Boilerplate** comes to help you get started quickly and easily merge update.
 - `-apple-system` is added in font rule, which display beautiful new font **San Francisco** in iOS 9 by default.
-- Fixed [issue#15](https://github.com/Huxpro/huxpro.github.io/issues/15) about code wrap.
+- Fixed [issue#15](https://github.com/xtf115/leekai.github.io/issues/15) about code wrap.
 
 ##### New Feature (V1.5.1)
 

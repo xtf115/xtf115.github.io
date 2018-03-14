@@ -10,7 +10,7 @@ tags:
     - 职业病
 ---
 
-> 这篇文章转载自[我在知乎上的回答](http://www.zhihu.com/question/26774049/answer/35041458)
+> 这篇文章转载自[知乎上的回答](http://www.zhihu.com/question/26774049/answer/35041458)
 
 
 <div>

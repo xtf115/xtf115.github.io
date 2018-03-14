@@ -209,7 +209,6 @@
 {% if page.catalog %}
 <script type="text/javascript">
     function generateCatalog (selector) {
-        alert('1');
         // interop with multilangual 
         if ({{ page.multilingual }}) {
             _containerSelector = 'div.post-container.active'
@@ -226,19 +225,17 @@
 
         // appending
         a.each(function () {
-            alert('2');
-            n = $(this).prop('tagName').toLowerCase();
-            i = "#"+$(this).prop('id');
-            t = $(this).text();
-            c = $('<a href="'+i+'" rel="nofollow">'+t+'</a>');
-            l = $('<li class="'+n+'_nav"></li>').append(c);
-            $(selector).append(l);
-            alert(l);
+            // n = $(this).prop('tagName').toLowerCase();
+            // i = "#"+$(this).prop('id');
+            // t = $(this).text();
+            // c = $('<a href="'+i+'" rel="nofollow">'+t+'</a>');
+            // l = $('<li class="'+n+'_nav"></li>').append(c);
+            // $(selector).append(l);
+            $(selector).append("l------");
         });
         return true;
     }
 
-    alert('3');
     generateCatalog(".catalog-body");
 
     // toggle side catalog

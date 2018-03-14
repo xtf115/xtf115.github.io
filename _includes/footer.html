@@ -226,13 +226,14 @@
 
         // appending
         a.each(function () {
+            alert('123');
             n = $(this).prop('tagName').toLowerCase();
-            alert(n);
             i = "#"+$(this).prop('id');
             t = $(this).text();
             c = $('<a href="'+i+'" rel="nofollow">'+t+'</a>');
             l = $('<li class="'+n+'_nav"></li>').append(c);
             $(selector).append(l);
+            alert(l);
         });
         return true;
     }

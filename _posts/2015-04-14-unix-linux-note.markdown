@@ -6,6 +6,7 @@ date:       2015-04-14
 author:     "Leekai"
 header-img: "img/post-bg-unix-linux.jpg"
 catalog: true
+multilingual: false
 tags:
     - OS
     - Unix

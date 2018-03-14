@@ -6,6 +6,7 @@ date:       2015-06-15
 author:     "Leekai"
 header-img: "img/post-bg-alitrip.jpg"
 catalog: true
+multilingual: false
 tags:
     - 产品设计
     - 阿里巴巴

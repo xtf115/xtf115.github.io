@@ -6,6 +6,7 @@ date:       2015-05-25
 author:     "Leekai"
 header-img: "img/post-bg-js-module.jpg"
 catalog: true
+multilingual: false
 tags:
     - 前端开发
     - JavaScript

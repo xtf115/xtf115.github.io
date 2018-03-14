@@ -7,6 +7,7 @@ author:     "Leekai"
 header-img: "img/post-bg-re-vs-ng2.jpg"
 header-mask: 0.3
 catalog:    true
+multilingual: false
 tags:
     - 前端开发
     - JavaScript

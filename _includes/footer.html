@@ -209,7 +209,7 @@
 {% if page.catalog %}
 <script type="text/javascript">
     function generateCatalog (selector) {
-
+        alert('1');
         // interop with multilangual 
         if ({{ page.multilingual }}) {
             _containerSelector = 'div.post-container.active'
@@ -226,7 +226,7 @@
 
         // appending
         a.each(function () {
-            alert('123');
+            alert('2');
             n = $(this).prop('tagName').toLowerCase();
             i = "#"+$(this).prop('id');
             t = $(this).text();
@@ -238,6 +238,7 @@
         return true;
     }
 
+    alert('3');
     generateCatalog(".catalog-body");
 
     // toggle side catalog

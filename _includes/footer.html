@@ -227,6 +227,7 @@
         // appending
         a.each(function () {
             n = $(this).prop('tagName').toLowerCase();
+            alert(n);
             i = "#"+$(this).prop('id');
             t = $(this).text();
             c = $('<a href="'+i+'" rel="nofollow">'+t+'</a>');

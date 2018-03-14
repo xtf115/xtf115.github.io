@@ -6,7 +6,6 @@ date:       2015-03-25
 author:     "Leekai"
 header-img: "img/post-bg-digital-native.jpg"
 catalog: true
-multilingual: true
 tags:
     - 随想录
     - 职业病

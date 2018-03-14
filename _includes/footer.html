@@ -225,13 +225,12 @@
 
         // appending
         a.each(function () {
-            // n = $(this).prop('tagName').toLowerCase();
-            // i = "#"+$(this).prop('id');
-            // t = $(this).text();
-            // c = $('<a href="'+i+'" rel="nofollow">'+t+'</a>');
-            // l = $('<li class="'+n+'_nav"></li>').append(c);
-            // $(selector).append(l);
-            $(selector).append("l------");
+            n = $(this).prop('tagName').toLowerCase();
+            i = "#"+$(this).prop('id');
+            t = $(this).text();
+            c = $('<a href="'+i+'" rel="nofollow">'+t+'</a>');
+            l = $('<li class="'+n+'_nav"></li>').append(c);
+            $(selector).append(l);
         });
         return true;
     }
